@@ -116,12 +116,14 @@ The average episode count is 18, showing most highly rated anime are relatively 
 
 📂 Repository Structure
 
+```
 top-anime-powerbi-dashboard
 │
 ├── Top_Anime_Dashboard.pbix
 ├── anime_dataset.csv
 ├── dashboard_preview.png
 └── README.md
+```
 
 🚀 Learning Outcomes
 
